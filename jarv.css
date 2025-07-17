@@ -1,0 +1,17 @@
+.message {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.you {
+    background-color: #ec99cd;
+}
+
+.keshav {
+    background-color: rgb(172, 188, 238);
+}
+
+button {
+    background-color: plum;
+}
